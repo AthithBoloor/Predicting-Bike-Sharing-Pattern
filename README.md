@@ -7,4 +7,4 @@ By building a neural network from the ground up, you'll have a much better under
 The data comes from the [UCI Machine Learning Database link](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 ## Problem to solve
-Neural Network for predicting Bike users on the given day : Here NN will predict how many bikes a company needs because if they have too few they are losing money from potential riders and if they have too many they are wasting money on bikes that are just sitting around. So NN will predict from the hisitorical data how many bikes they will need in the near future.
+Neural Network for predicting Bike users on the given day : Here NN will predict how many bikes a company needs because if they have too few they are losing money from potential riders and if they have too many they are wasting money on bikes that are just sitting around. So NN will predict from the hisitorical data the number of bikes needed for a profitable business.
